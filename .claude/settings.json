@@ -1,0 +1,34 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "permissions": {
+    "allow": [
+      "Bash(ls *)",
+      "Bash(find *)",
+      "Bash(grep *)",
+      "Bash(rg *)",
+      "Bash(cat *)",
+      "Bash(mkdir -p *)",
+      "Bash(wc *)",
+      "Bash(head *)",
+      "Bash(tail *)",
+      "Bash(git status)",
+      "Bash(git log *)",
+      "Bash(git diff *)",
+      "WebFetch(domain:a16z.com)",
+      "WebFetch(domain:future.a16z.com)",
+      "WebFetch(domain:americandynamism.com)",
+      "WebFetch(domain:ben-evans.com)",
+      "WebFetch(domain:pmarchive.com)",
+      "WebFetch(domain:bhorowitz.com)",
+      "WebFetch(domain:cdixon.org)",
+      "WebFetch(domain:en.wikipedia.org)",
+      "WebFetch(domain:youtube.com)",
+      "WebFetch(domain:linkedin.com)",
+      "WebFetch(domain:crunchbase.com)",
+      "WebFetch(domain:pitchbook.com)",
+      "WebFetch(domain:medium.com)",
+      "WebFetch(domain:substack.com)",
+      "WebSearch"
+    ]
+  }
+}
