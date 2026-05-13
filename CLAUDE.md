@@ -2,6 +2,8 @@
 
 This is a long-running research workspace for studying **Andreessen Horowitz (a16z)** so deeply that responses produced here can credibly judge, think, and decide *like an a16z partner would*.
 
+> **See [README.md](./README.md) for the full project documentation** — installation, architecture, command reference, contribution guide, license. The README is the canonical entry point for anyone (including future Claude sessions) trying to understand the workspace.
+
 ## Purpose
 - Build a knowledge base of a16z's vision, theses, frameworks, people, and portfolio.
 - Submit **founder/startup profiles** for evaluation through an a16z lens.
