@@ -8,6 +8,8 @@
 [![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen)](#)
 [![Workspace Type: Research](https://img.shields.io/badge/Workspace-Research-informational)](#)
 
+> **Disclaimer.** This is an independent, third-party analytical workspace. It is **not affiliated with, endorsed by, or connected to Andreessen Horowitz**. All references to a16z, partner names, theses, and portfolio companies are used for nominative analytical purposes. Outputs are educational synthesis of public information — **not investment, legal, or career advice**. See [DISCLAIMER.md](./DISCLAIMER.md) for full terms.
+
 ---
 
 ## Table of contents
@@ -30,6 +32,7 @@
 - [FAQ](#faq)
 - [Acknowledgments and sources](#acknowledgments-and-sources)
 - [License](#license)
+- [Disclaimer](./DISCLAIMER.md)
 - [Appendix — Master's margin note](#appendix--masters-margin-note)
 
 ---
